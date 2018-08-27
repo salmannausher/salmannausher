@@ -4,27 +4,19 @@
     <div class="about-w3l-agileifo-grid">
       <div class="col-md-7 agile-w3l-ab">
         <ul class="rslides" id="slider">
+          <% @IntroImages.each do |img|%>
           <li>
-            <div class="agile-w3l-ab-img">
-              <img src="images/a3.jpg" class="img-responsive" alt="Homey Designs">
-            </div>
-          </li>
-          <li>
-            <div class="agile-w3l-ab-img">
-              <img src="images/a2.jpg" class="img-responsive" alt="Homey Designs">
-            </div>
-          </li>
-          <li>
-            <div class="agile-w3l-ab-img">
-              <img src="images/a1.jpg" class="img-responsive" alt="Homey Designs">
-            </div>
-          </li>
+              <div class="agile-w3l-ab-img">
+                <%= image_tag img.image.url(:medium) %>
+              </div>
+            </li>
+          <% end %>
         </ul>
       </div>
       <div class="col-md-5 w3ls-agile-left">
         <div class="w3ls-agile-left-info">
           <h4>Name</h4>
-          <p>Keith Mash</p>
+          <p>Salman Nausher</p>
         </div>
         <div class="w3ls-agile-left-info">
           <h4>Sex</h4>
@@ -32,15 +24,15 @@
         </div>
         <div class="w3ls-agile-left-info">
           <h4>Address</h4>
-          <p> 30, Golden Street, New Castle</p>
+          <p> P-94 Usman Block Gulshan-e-madina Sargodha Road Faisalabad.</p>
         </div>
         <div class="w3ls-agile-left-info">
           <h4>Phone Number</h4>
-          <p>+012 345 6789</p>
+          <p>+92-305-2546818</p>
         </div>
         <div class="w3ls-agile-left-info">
           <h4>Email Address</h4>
-          <p><a href="mailto:example@email.com">mail@example.com</a></p>
+          <p><a href="mailto:example@email.com">salman.nausher@qbatch.com</a></p>
         </div>
       </div>
     </div>
