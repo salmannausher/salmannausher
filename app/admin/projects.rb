@@ -12,7 +12,7 @@ ActiveAdmin.register Project do
 #   permitted
 # end
 permit_params do
-  permitted = [:title, :image]
+  permitted = [:title, :image, :url]
   permitted
 end
 
@@ -21,11 +21,13 @@ index do
     id_column
     column :title
     column :image
+    column :url
     actions
   end
   form :html => { :enctype => "multipart/form-data" }  do |f|
     f.inputs "Project" do
       f.input :title, required: true
+      f.input :url
       f.input :image, required: true, as: :file, :hint => (f.template.image_tag(f.object.image.url(:medium)) if f.object.image )
     end
     f.actions
@@ -34,6 +36,7 @@ index do
   show do |project|
     attributes_table do
       row :title
+      row :url
       row "image" do
         ul do
           image_tag(project.image.url(:medium))

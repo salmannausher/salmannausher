@@ -5,12 +5,10 @@
         <% @projects.each_with_index do |project,index| %>
           <div class="col-md-3 agileits_portfolio_grid">
               <div class="agileinfo_portfolio_grid hovereffect">
-                <a class="cm-overlay" href="images/g1.jpg">
+                <a  href="<%= project.url  %>" target= "_blank">
                   <%= image_tag project.image.url(:medium) %>
                   <div class="overlay">
                     <h4><%= project.title%></h4>
-                <p><%= index%></p>
-
                   </div>
                 </a>
               </div>
