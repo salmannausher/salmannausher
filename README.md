@@ -3,12 +3,12 @@
 [![Website](https://img.shields.io/website?label=Hire_Me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/freelancers/~013284928954bf6f26)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer, and Traveller!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to travel and play Table tennis
 
 
 ### Languages and Tools: 
