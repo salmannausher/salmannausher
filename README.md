@@ -7,7 +7,7 @@ I build autonomous AI agent systems and AI-first software products. Every system
 Currently building the **AI Revenue Engine** — an autonomous outbound sales pipeline using Claude and MCP. Documenting the full build in public.
 
 [![Upwork](https://img.shields.io/badge/Upwork-Top_Rated_Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~013284928954bf6f26)
-[![Devsphinx](https://img.shields.io/badge/Devsphinx-AI--First_Studio-D4501A?style=for-the-badge)](https://devsphinx.com)
+[![Devsphinx](https://img.shields.io/badge/Devsphinx-AI--First_Studio-D4501A?style=for-the-badge)](https://devshinx.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-snausher-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snausher)
 
 ---
