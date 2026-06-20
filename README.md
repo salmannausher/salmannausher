@@ -1,6 +1,6 @@
 # Hi, I'm Salman Nausher 👋
 
-### AI Systems Builder · Founder @ [Devsphinx](https://devsphinx.com) · Top Rated Plus on Upwork
+### AI Systems Builder · Founder @ [Devsphinx](https://devshinx.dev) · Top Rated Plus on Upwork
 
 I build autonomous AI agent systems and AI-first software products. Every system I design starts with the AI layer — then the infrastructure, data model, and UI get built around it. Not the other way around.
 
@@ -75,7 +75,7 @@ Currently building the **AI Revenue Engine** — an autonomous outbound sales pi
 
 ### 📫 Reach me
 
-- **Agency:** [salmannausher.com](https://devshinx.com)
+- **Agency:** [Devsphinx](https://devshinx.dev)
 - **LinkedIn:** [linkedin.com/in/snausher](https://www.linkedin.com/in/snausher)
 - **Upwork:** [Top Rated Plus · 100% JSS · 4.9★ · 24 contracts](https://www.upwork.com/freelancers/~013284928954bf6f26)
 - **Email:** salmanfasttian@gmail.com
